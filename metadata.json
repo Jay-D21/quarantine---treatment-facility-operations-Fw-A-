@@ -1,0 +1,6 @@
+{
+  "name": "Quarantine & Treatment Facility Operations",
+  "description": "Clinical operations and patient workflow management system for a 74-bed viral quarantine and treatment facility enforcing daily nurse thermometry, doctor treatment reviews, and administrative discharge benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
